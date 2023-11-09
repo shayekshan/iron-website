@@ -11,3 +11,28 @@ h1 {
 .dark-color {
     color: darkgray;
 }
+
+.section-1 {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.division-1 {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.division-1 img {
+    width: 50%;
+    border-left: 8px solid rgb(30, 226, 248);
+    border-right: 8px solid rgb(30, 226, 248);
+    box-shadow: 10px 10px 50px gray;
+}
+
+.division-2 img {
+    width: 100%;
+    border-left: 8px solid navy;
+    border-right: 8px solid navy;
+    box-shadow: 10px 10px 50px gray;
+}
